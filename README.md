@@ -5,7 +5,7 @@
 > Access **OpenAI Sora 2** (Sora Pro, Sora2, Sora-2) text-to-video and image-to-video generation through a simple, affordable API. The cheapest Sora 2 API access available.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/API-Online-green.svg)](https://shanhaiapi.com/zh/)
+[![API Status](https://img.shields.io/badge/API-Online-green.svg)](https://offoff.ai/)
 [![Documentation](https://img.shields.io/badge/Docs-Available-blue.svg)](https://docs.mountsea.ai/api-reference/sora/introduction)
 
 <!-- Banner Image - replace with actual banner -->
@@ -17,7 +17,7 @@
 
 ## 🤔 What is Sora 2 API?
 
-**Sora 2** (also known as Sora Pro, Sora2, OpenAI Sora) is OpenAI's latest AI video generation model. This project provides the **cheapest and easiest way** to access Sora 2 API through [Mountsea AI](https://shanhaiapi.com/zh/).
+**Sora 2** (also known as Sora Pro, Sora2, OpenAI Sora) is OpenAI's latest AI video generation model. This project provides the **cheapest and easiest way** to access Sora 2 API through [Mountsea AI](https://offoff.ai/).
 
 ### Supported Models
 
@@ -48,7 +48,7 @@ npm install mountsea-sora
 
 ### Get Your API Key
 
-1. Visit [Mountsea AI Platform](https://shanhaiapi.com/zh/)
+1. Visit [Mountsea AI Platform](https://offoff.ai/)
 2. Sign up and get your API key
 3. Start generating videos!
 
@@ -246,12 +246,12 @@ Mountsea AI offers the most competitive pricing for Sora API:
 | Business | 500,000 | ¥4,500 (10% OFF) |
 | Enterprise | 1,000,000 | ¥8,000 (20% OFF) |
 
-👉 [View Full Pricing](https://shanhaiapi.com/zh/)
+👉 [View Full Pricing](https://offoff.ai/)
 
 ## 📚 Documentation
 
 - 📘 [Sora API Documentation](https://docs.mountsea.ai/api-reference/sora/introduction)
-- 🏠 [Mountsea AI Platform](https://shanhaiapi.com/zh/)
+- 🏠 [Mountsea AI Platform](https://offoff.ai/)
 
 ## 🔗 Related Projects
 
@@ -282,7 +282,7 @@ Mountsea AI offers the most competitive pricing for Sora API:
 
 ### 获取 API 密钥
 
-1. 访问 [Mountsea AI 平台](https://shanhaiapi.com/zh/)
+1. 访问 [Mountsea AI 平台](https://offoff.ai/)
 2. 注册账号并获取 API 密钥
 3. 开始生成视频！
 
@@ -322,7 +322,7 @@ print(f"任务 ID: {task['taskId']}")
 ## 📚 文档
 
 - 📘 [Sora API 完整文档](https://docs.mountsea.ai/api-reference/sora/introduction)
-- 🏠 [Mountsea AI 官网](https://shanhaiapi.com/zh/)
+- 🏠 [Mountsea AI 官网](https://offoff.ai/)
 
 ## ⭐ Star History
 
@@ -334,7 +334,7 @@ print(f"任务 ID: {task['taskId']}")
 
 ---
 
-**Powered by [Mountsea AI](https://shanhaiapi.com/zh/) – 全球顶级 AI 视频和音乐生成器 API 一体化平台**
+**Powered by [Mountsea AI](https://offoff.ai/) – 全球顶级 AI 视频和音乐生成器 API 一体化平台**
 
 <!-- Auto-updated by CI -->
 > Last API Check: 2026-03-06 | Status: online

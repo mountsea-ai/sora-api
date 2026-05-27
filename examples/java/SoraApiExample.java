@@ -3,7 +3,7 @@
  * Generate videos using OpenAI Sora 2 via Mountsea AI
  *
  * Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
- * Platform: https://shanhaiapi.com/zh/
+ * Platform: https://offoff.ai/
  *
  * Dependencies: Java 11+ (uses java.net.http)
  */
@@ -78,7 +78,7 @@ public class SoraApiExample {
         }
 
         System.out.println("\n📘 Docs: https://docs.mountsea.ai/api-reference/sora/introduction");
-        System.out.println("🏠 Platform: https://shanhaiapi.com/zh/");
+        System.out.println("🏠 Platform: https://offoff.ai/");
     }
 
     // Simple JSON value extractor (use Gson/Jackson in production)

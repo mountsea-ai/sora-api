@@ -2,7 +2,7 @@
 // Generate videos using OpenAI Sora 2 via Mountsea AI
 //
 // Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
-// Platform: https://shanhaiapi.com/zh/
+// Platform: https://offoff.ai/
 
 package main
 
@@ -118,6 +118,6 @@ func main() {
 	fmt.Printf("✅ Video URL: %s\n", result.VideoURL)
 
 	fmt.Println("\n📘 Docs: https://docs.mountsea.ai/api-reference/sora/introduction")
-	fmt.Println("🏠 Platform: https://shanhaiapi.com/zh/")
+	fmt.Println("🏠 Platform: https://offoff.ai/")
 }
 

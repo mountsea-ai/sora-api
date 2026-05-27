@@ -9,7 +9,7 @@ Quick Start:
     >>> print(result["videoUrl"])
 
 Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
-Platform: https://shanhaiapi.com/zh/
+Platform: https://offoff.ai/
 """
 
 from .client import SoraClient

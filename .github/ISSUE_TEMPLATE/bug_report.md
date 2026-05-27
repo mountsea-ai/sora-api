@@ -34,5 +34,5 @@ Add any other context about the problem here.
 
 ---
 📘 Check our [Documentation](https://docs.mountsea.ai/) for API reference.
-🏠 Visit [Mountsea AI Platform](https://shanhaiapi.com/zh/) for support.
+🏠 Visit [Mountsea AI Platform](https://offoff.ai/) for support.
 

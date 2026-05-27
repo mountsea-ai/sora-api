@@ -9,7 +9,7 @@
  * console.log(result.videoUrl);
  *
  * Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
- * Platform: https://shanhaiapi.com/zh/
+ * Platform: https://offoff.ai/
  */
 
 const https = require('https');
@@ -18,7 +18,7 @@ const { URL } = require('url');
 
 class SoraClient {
   /**
-   * @param {string} apiKey - Your Mountsea AI API key (get one at https://shanhaiapi.com/zh/)
+   * @param {string} apiKey - Your Mountsea AI API key (get one at https://offoff.ai/)
    * @param {object} [options]
    * @param {string} [options.baseUrl='https://api.mountsea.ai'] - API base URL
    * @param {number} [options.timeout=30000] - Request timeout in ms

@@ -5,7 +5,7 @@ Generate AI videos using OpenAI Sora 2, Sora Pro via Mountsea AI.
 Supports text-to-video and image-to-video generation.
 
 Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
-Platform: https://shanhaiapi.com/zh/
+Platform: https://offoff.ai/
 """
 
 import time
@@ -16,7 +16,7 @@ class SoraClient:
     """Client for Mountsea Sora 2 API.
 
     Args:
-        api_key: Your Mountsea AI API key. Get one at https://shanhaiapi.com/zh/
+        api_key: Your Mountsea AI API key. Get one at https://offoff.ai/
         base_url: API base URL (default: https://api.mountsea.ai)
         timeout: Request timeout in seconds (default: 30)
 

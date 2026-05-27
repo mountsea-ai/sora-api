@@ -2,7 +2,7 @@
 # Sora 2 API - Video Generation Examples (cURL)
 #
 # Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
-# Platform: https://shanhaiapi.com/zh/
+# Platform: https://offoff.ai/
 
 API_KEY="${MOUNTSEA_API_KEY:-your-api-key}"
 BASE_URL="https://api.mountsea.ai"
@@ -45,5 +45,5 @@ echo '  -H "Authorization: Bearer YOUR_API_KEY"'
 echo ""
 
 echo "🔗 Full Documentation: https://docs.mountsea.ai/api-reference/sora/introduction"
-echo "🏠 Platform: https://shanhaiapi.com/zh/"
+echo "🏠 Platform: https://offoff.ai/"
 

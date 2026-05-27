@@ -20,5 +20,5 @@ Any other context or screenshots about the feature request.
 
 ---
 📘 Check our [Documentation](https://docs.mountsea.ai/) for current features.
-🏠 Visit [Mountsea AI Platform](https://shanhaiapi.com/zh/) for the latest updates.
+🏠 Visit [Mountsea AI Platform](https://offoff.ai/) for the latest updates.
 

@@ -3,7 +3,7 @@ Sora API - Video Generation Example
 Generate videos using Mountsea AI's Sora API
 
 Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
-Platform: https://shanhaiapi.com/zh/
+Platform: https://offoff.ai/
 """
 
 import requests
@@ -127,5 +127,5 @@ if __name__ == "__main__":
     print(f"Task created: {task2['taskId']}")
     
     print("\n🔗 Documentation: https://docs.mountsea.ai/api-reference/sora/introduction")
-    print("🏠 Platform: https://shanhaiapi.com/zh/")
+    print("🏠 Platform: https://offoff.ai/")
 

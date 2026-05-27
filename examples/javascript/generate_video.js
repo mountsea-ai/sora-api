@@ -3,7 +3,7 @@
  * Generate videos using OpenAI Sora 2 via Mountsea AI
  *
  * Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
- * Platform: https://shanhaiapi.com/zh/
+ * Platform: https://offoff.ai/
  */
 
 const axios = require('axios');
@@ -82,6 +82,6 @@ async function waitForResult(taskId, timeout = 600000, interval = 10000) {
   }
 
   console.log('\n📘 Docs: https://docs.mountsea.ai/api-reference/sora/introduction');
-  console.log('🏠 Platform: https://shanhaiapi.com/zh/');
+  console.log('🏠 Platform: https://offoff.ai/');
 })();
 

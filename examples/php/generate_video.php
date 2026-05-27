@@ -4,7 +4,7 @@
  * Generate videos using OpenAI Sora 2 via Mountsea AI
  *
  * Documentation: https://docs.mountsea.ai/api-reference/sora/introduction
- * Platform: https://shanhaiapi.com/zh/
+ * Platform: https://offoff.ai/
  */
 
 $API_KEY = getenv('MOUNTSEA_API_KEY') ?: 'your-api-key';
@@ -96,5 +96,5 @@ $result = waitForCompletion($task['taskId']);
 echo "✅ Video URL: {$result['videoUrl']}\n";
 
 echo "\n📘 Docs: https://docs.mountsea.ai/api-reference/sora/introduction\n";
-echo "🏠 Platform: https://shanhaiapi.com/zh/\n";
+echo "🏠 Platform: https://offoff.ai/\n";
 

@@ -31,7 +31,7 @@ classifiers = [
 dependencies = ["requests>=2.28.0"]
 
 [project.urls]
-Homepage = "https://shanhaiapi.com/zh/"
+Homepage = "https://offoff.ai/"
 Documentation = "https://docs.mountsea.ai/api-reference/sora/introduction"
 Repository = "https://github.com/mountsea-ai/sora-api"
 Issues = "https://github.com/mountsea-ai/sora-api/issues"
